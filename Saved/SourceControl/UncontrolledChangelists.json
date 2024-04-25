@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/bib/Unreal Projects/Static-Void-Project/Content/Characters/Irie/Materials/Cell.uasset",
+				"C:/Users/bib/Unreal Projects/Static-Void-Project/Content/ThirdPerson/Blueprints/Irie.uasset",
+				"C:/Users/bib/Unreal Projects/Static-Void-Project/Content/Characters/Irie/Meshes/Irie_Skeleton.uasset",
 				"C:/Users/janni/Documents/Unreal Projects/Irie/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/janni/Documents/Unreal Projects/Irie/Content/ThirdPerson/Maps/Irie_Game.umap",
 				"C:/Users/janni/Documents/Unreal Projects/Irie/Content/ThirdPerson/Blueprints/Irie.uasset",
